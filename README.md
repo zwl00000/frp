@@ -318,3 +318,10 @@ Traffic      流量
 | Dashboard `401` | 正常，表示正在等待用户名密码 |
 | Dashboard 代理访问 `502` | 对公网 IP 设置 `DIRECT` |
 | `docker logs` 为空 | 日志可能写入挂载的日志文件 |
+
+## Acknowledgements
+
+本项目基于开源项目 [fatedier/frp](https://github.com/fatedier/frp) 进行部署与使用，
+感谢 FRP 项目作者及贡献者的开源工作。
+
+- Original Project: [fatedier/frp](https://github.com/fatedier/frp)
